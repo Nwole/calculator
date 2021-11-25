@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//Nwole-github.io/caculator/static/css/main.c235f39c.chunk.css",
+    "main.js": "/https//Nwole-github.io/caculator/static/js/main.93930f95.chunk.js",
+    "main.js.map": "/https//Nwole-github.io/caculator/static/js/main.93930f95.chunk.js.map",
+    "runtime-main.js": "/https//Nwole-github.io/caculator/static/js/runtime-main.af2e7c2e.js",
+    "runtime-main.js.map": "/https//Nwole-github.io/caculator/static/js/runtime-main.af2e7c2e.js.map",
+    "static/js/2.97742d27.chunk.js": "/https//Nwole-github.io/caculator/static/js/2.97742d27.chunk.js",
+    "static/js/2.97742d27.chunk.js.map": "/https//Nwole-github.io/caculator/static/js/2.97742d27.chunk.js.map",
+    "static/js/3.2f206254.chunk.js": "/https//Nwole-github.io/caculator/static/js/3.2f206254.chunk.js",
+    "static/js/3.2f206254.chunk.js.map": "/https//Nwole-github.io/caculator/static/js/3.2f206254.chunk.js.map",
+    "index.html": "/https//Nwole-github.io/caculator/index.html",
+    "static/css/main.c235f39c.chunk.css.map": "/https//Nwole-github.io/caculator/static/css/main.c235f39c.chunk.css.map",
+    "static/js/2.97742d27.chunk.js.LICENSE.txt": "/https//Nwole-github.io/caculator/static/js/2.97742d27.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//Nwole-github.io/caculator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af2e7c2e.js",
+    "static/js/2.97742d27.chunk.js",
+    "static/css/main.c235f39c.chunk.css",
+    "static/js/main.93930f95.chunk.js"
+  ]
+}
